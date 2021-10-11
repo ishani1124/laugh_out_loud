@@ -1,4 +1,3 @@
 #Laugh Out Loud
 
-# # A Google Chrome Extension.
-
+## A Google Chrome Extension.
